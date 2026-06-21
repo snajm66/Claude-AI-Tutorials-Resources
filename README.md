@@ -51,6 +51,6 @@ Claude-AI-Tutorials-Resources/
 
 - YouTube: [@PBIRSTalk](https://youtube.com/@PBIRSTalk)
 - Website: [zahanai.com](https://zahanai.com)
-- LinkedIn: *(add your link)*
+- LinkedIn: [linkedin.com/in/syednajamuddin](www.linkedin.com/in/syednajamuddin)
 
 If these resources helped you, consider subscribing to the channel and sharing it with fellow BI and finance professionals. 🙏
