@@ -35,6 +35,8 @@ Claude-AI-Tutorials-Resources/
 ├── README.md
 ├── Prompts/
 │   └── Claude AI Tutorials/
+├── Sample-Files/
+│   └── Claude AI Tutorials/
 ├── Sample-Datasets/
 │   └── Claude AI Tutorials/
 ├── Guides/
