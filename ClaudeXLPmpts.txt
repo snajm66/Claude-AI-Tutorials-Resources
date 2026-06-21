@@ -1,0 +1,4 @@
+clean it (standardize text, fix dates, remove dupes, handle missing values) → export cleaned CSV/Excel
+
+build an interactive HTML dashboard (KPI cards + charts) from the cleaned data 
+

@@ -1,0 +1,36 @@
+Prompt 3 — Scheduled Check & Report Drafting Layer (Offline-First)
+
+This environment does not support a persistent background process, so the
+agent does NOT run a continuous monitoring loop. Instead, it runs ON DEMAND
+each time it is triggered — either manually by the user, or by an external
+scheduler (Power Automate Desktop) that runs once per day/week.
+
+When triggered, the agent must:
+
+1. Check the files currently available in this Project's Knowledge base
+2. Identify month/period identifiers from filenames or sheet names
+   (e.g. April 2026, May 2026, June 2026)
+3. Compare against a simple tracking list I maintain manually
+   (a "Processed Months" note in this Project) to identify which month(s)
+   have NOT yet been analyzed
+4. For each newly identified month:
+   - run the full financial analysis (per the FP&A Executive Reporting Standard)
+   - output the report as ready-to-paste text
+5. At the end, output an updated "Processed Months" list for me to save
+   back into the Project, so the next run knows what's already been covered
+
+Do not assume email sending capability. The output is always a draft —
+delivery (Outlook email, Teams message, or saved file) happens outside
+Claude, via Power Automate Desktop or manual copy-paste.
+
+ERROR HANDLING
+If a file cannot be read or data is incomplete:
+- explicitly state which file/section failed and why
+- continue analyzing the remaining available files
+- never fabricate missing data to fill a gap
+
+OPERATIONAL RULES
+- Only analyze months not already marked as processed
+- Always output in the exact executive reporting format from Prompt 2
+- Always end with the updated Processed Months list
+- Never claim the report has been "sent" — you only draft it
