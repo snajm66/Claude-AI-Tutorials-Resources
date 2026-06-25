@@ -1,0 +1,46 @@
+DEMO 1 — Dashboard Morning Briefing:
+====================================
+I am a Trade Finance Manager at a Pakistani bank. Below is our YTD Trade Finance dashboard data for 2026 (fictional). 
+Write a concise morning briefing note (under 150 words) for our Head of Trade Finance covering: 
+(1) Overall YTD achievement % versus target. 
+(2) Which segment is performing best and which is lagging most. 
+(3) One key risk observation. Use professional banking language. All figures in PKR Millions | Fictional demo dataset — no real customer, branch or transaction data
+[Paste Dashboard Summary data here]												
+
+DEMO 2 — Monthly Trend Analysis:
+================================
+Below is our monthly trade finance business trend for Jan to Jun 2026 (fictional). 
+Analyze the data and: (1) Identify which instrument type (Export / Import / Guarantee) shows the steepest monthly decline. 
+(2) Which month had the highest overall achievement? 
+(3) Draft a 3-line commentary for our Board MIS report on the trend observed. Audience: Board Risk Committee. 
+Tone: Formal and concise. 
+ [Paste Monthly Trend data here]
+
+
+DEMO 3 — AM / TL Performance Review Note:
+=========================================
+Below is the YTD trade finance performance by Account Manager / Team Leader (fictional). 
+Review the data and: (1) Rank the top 3 performers by total YTD volume. 
+(2) Identify the bottom 2 performers and suggest a one-line action note for each. 
+(3) Draft a short performance summary paragraph for the monthly business review meeting. 
+Keep the tone professional but direct. 
+[Paste AM-TL Performance data here]
+
+DEMO 4 — Transaction Pipeline Analysis:
+=======================================
+Below is a sample of our trade finance transactions for 2026 (fictional demo data). 
+Analyze the transaction mix and: (1) Break down the count and total PKR amount by instrument type (Export, Import, Guarantee). 
+(2) Which currency dominates the portfolio? 
+(3) List the top 3 commodity categories by transaction volume. 
+(4) Draft a 2-sentence portfolio composition note for management. 
+[Paste Transaction Master data here]
+
+ DEMO 5 — MIS Commentary — Board Pack:
+ =====================================
+ I need to prepare the Trade Finance section of our monthly Board MIS pack. 
+ Using the YTD dashboard summary and monthly trend data below (fictional), write the MIS commentary covering: 
+ (1) Business volume headline — total target vs achievement with % and Rs. million variance. 
+ (2) Segment-wise performance observation (Corporate / Commercial / SME). 
+ (3) Month-on-month trend observation for the last 3 months. 
+ (4) Forward outlook note — one sentence on what needs management attention next month. 
+ Format: Formal board-level English. Word limit: 200 words max. [Paste data from both sheets]
